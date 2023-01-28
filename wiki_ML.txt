@@ -1,0 +1,3 @@
+Machine learning (ML) is a field of inquiry devote
+d to understanding and building methods that learn, that is, methods that leverage data to improve p
+erformance on some set of tasks.[1] It is seen as a part of artificial intelligence.
